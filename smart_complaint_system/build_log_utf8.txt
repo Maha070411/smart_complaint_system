@@ -1,0 +1,22 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.up:smart_complaint_system >--------------------
+[INFO] Building smart_complaint_system 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.4.1:clean (default-clean) @ smart_complaint_system ---
+[INFO] Deleting C:\Users\HOME\OneDrive\Hcl Tech training days tasks\smart_complaint_system\smart_complaint_system\target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.623 s
+[INFO] Finished at: 2026-02-24T12:41:14+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-clean-plugin:3.4.1:clean (default-clean) on project smart_complaint_system: Failed to clean project: Failed to delete C:\Users\HOME\OneDrive\Hcl Tech training days tasks\smart_complaint_system\smart_complaint_system\target\classes\com\demo\smart_complaint_system\config -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException

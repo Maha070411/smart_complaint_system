@@ -1,0 +1,25 @@
+# Backend
+smart_complaint_system/target/
+smart_complaint_system/.mvn/
+smart_complaint_system/*.iml
+smart_complaint_system/.idea/
+smart_complaint_system/.settings/
+smart_complaint_system/.classpath
+smart_complaint_system/.project
+
+# Frontend
+scs-frontend/node_modules/
+scs-frontend/dist/
+
+# IDE
+.vscode/
+*.class
+*.jar
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build logs
+build_log.txt
